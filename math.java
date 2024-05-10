@@ -6,9 +6,8 @@ public class math {
             System.out.println("x is greater than y");
         } else {
             System.out.println("x is not grerater than y");}
-            else {
             
-                System.out.println("x is equal to y");
+            
+            
             }
-            }
-}}
+            }}}
