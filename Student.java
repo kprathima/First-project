@@ -6,9 +6,9 @@ public class Student {
         int studentAge = 10;
         float StudentFee = 35.8f;
         char StudentGrade = 'A';
-        System.out.println("Studentname:" + Studentname);
-        System.out.println("Studentid:" + Studentid);
-        System.out.println("Studentage:" + StudentAge);
+        System.out.println("Studentname:" + studentname);
+        System.out.println("Studentid:" + studentid);
+        System.out.println("Studentage:" + studentAge);
         System.out.println("Studentfee:" + StudentFee);
         System.out.println("StudentGrade:" + StudentGrade);
 
